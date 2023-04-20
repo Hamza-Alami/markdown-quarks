@@ -120,3 +120,13 @@ The Logs section also provides information about the devices and operating syste
 ## App General Settings
 
 In this section, you can manage your app's general settings, including its name, description, domain, logo, and support contact details. You can edit these settings by filling the appropriate fields and clicking on the save button.
+
+## Integrating the Authentication Tool in Your Website
+
+To integrate the authentication tool in your website, follow these steps:
+
+1. Install the Quark Auth library by running `npm install quarks-lib` in your website's source code.
+2. Copy your flow token from the Interfaces dashboard in the app's dashboard.
+3. Paste the flow token in your website's source code where you want the authentication tool to be integrated.
+
+Once you have completed these steps, the login page with all the settings you have configured will be automatically available on your website. Note that you can customize the login page design, color, background, etc., in the dashboard.
