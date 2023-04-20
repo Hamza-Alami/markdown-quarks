@@ -130,3 +130,6 @@ To integrate the authentication tool in your website, follow these steps:
 3. Paste the flow token in your website's source code where you want the authentication tool to be integrated.
 
 Once you have completed these steps, the login page with all the settings you have configured will be automatically available on your website. Note that you can customize the login page design, color, background, etc., in the dashboard.
+
+In your website's source code, anything that is inside the `<quarks-authenticated></quarks-authenticated>` element is only available to users who are authenticated. This is usable in all frameworks.
+
