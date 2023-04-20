@@ -117,3 +117,6 @@ The Logs section of your app dashboard provides you with detailed information ab
 
 The Logs section also provides information about the devices and operating systems used by the end user to login, as well as the country of origin. This information is displayed in a user-friendly and readable page that includes the address, company, and whether the address is anonymous, a threat, a cloud provider, a bot, or a cloud. Note that while this section is accessible in the free version, it is limited to 7 days of log history.
 
+## App General Settings
+
+In this section, you can manage your app's general settings, including its name, description, domain, logo, and support contact details. You can edit these settings by filling the appropriate fields and clicking on the save button.
