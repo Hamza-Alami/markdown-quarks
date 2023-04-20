@@ -96,7 +96,6 @@ The Blacklisted IPs option allows you to block access to certain IP addresses th
 
 ### Allowed Countries and Not Allowed Countries
 
-The Allowed Countries and Not Allowed Countries options allow you to restrict access to your app based on the user's country of origin. To configure these options, enter the desired countries in the corresponding fields.
+The Allowed Countries and Not Allowed Countries options allow you to restrict access to your app based on the user's country of origin. To configure these options, select the desired countries from the corresponding dropdown lists.
 
 By using these advanced security settings, you can help to ensure that your app is secure and protected from unauthorized access from specific domains, origins, IPs, and countries.
-
