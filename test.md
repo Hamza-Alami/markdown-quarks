@@ -74,3 +74,29 @@ The Password Dictionary option allows you to refuse passwords that are among the
 
 By using these security settings, you can help to ensure that your app is secure and protected from unauthorized access.
 
+## Advanced Security
+
+In the Advanced Security section of your app dashboard, you can configure additional security options for your app. Here are some of the options available:
+
+### Allowed Domains
+
+The Allowed Domains option allows you to restrict login to users who have email addresses associated with certain domains. To configure this option, enter the domain names that are allowed in the "Allowed Domains" field.
+
+### Allowed Origins
+
+The Allowed Origins option allows you to whitelist certain URLs that are allowed to make requests to your app. To configure this option, enter the URLs in the "Allowed Origins" field.
+
+### Allowed IP Addresses
+
+The Allowed IP Addresses option allows you to whitelist certain IP addresses that are allowed to access your app. To configure this option, enter the IP addresses in the "Allowed IP Addresses" field.
+
+### Blacklisted IPs
+
+The Blacklisted IPs option allows you to block access to certain IP addresses that you do not want to be able to access your app. To configure this option, enter the IP addresses in the "Blacklisted IPs" field.
+
+### Allowed Countries and Not Allowed Countries
+
+The Allowed Countries and Not Allowed Countries options allow you to restrict access to your app based on the user's country of origin. To configure these options, enter the desired countries in the corresponding fields.
+
+By using these advanced security settings, you can help to ensure that your app is secure and protected from unauthorized access from specific domains, origins, IPs, and countries.
+
