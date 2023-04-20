@@ -55,3 +55,22 @@ In the AuthFlow settings, you can choose a password policy to enforce for your a
 - Strong
 
 Each password policy has its own specific requirements to make the user's password more secure.
+
+## Security Settings
+
+In the Security Settings section of your app dashboard, you can configure additional security features for your app. Here are some of the options available:
+
+### Force Login
+
+The Force Login parameter allows you to set a time period after which the user will be required to login again, even if their token has not yet expired. To configure this option, enter a value in the "Force Login After" field.
+
+### Force Logout
+
+The Force Logout parameter allows you to set a time period after which the user will be automatically logged out of the app. To configure this option, enter a value in the "Force Logout After" field.
+
+### Password Dictionary
+
+The Password Dictionary option allows you to refuse passwords that are among the 10,000 or 100,000 most commonly used passwords. To configure this option, select the desired option from the dropdown list.
+
+By using these security settings, you can help to ensure that your app is secure and protected from unauthorized access.
+
