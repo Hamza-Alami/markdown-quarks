@@ -99,3 +99,21 @@ The Blacklisted IPs option allows you to block access to certain IP addresses th
 The Allowed Countries and Not Allowed Countries options allow you to restrict access to your app based on the user's country of origin. To configure these options, select the desired countries from the corresponding dropdown lists.
 
 By using these advanced security settings, you can help to ensure that your app is secure and protected from unauthorized access from specific domains, origins, IPs, and countries.
+
+## User Management
+
+The User Management section of your app dashboard allows you to add new users manually by filling in the required fields, including username, email, password, and password confirmation. This section also provides you with an overview of your users, including their email addresses, last login dates, and account status.
+
+## Logs
+
+The Logs section of your app dashboard provides you with detailed information about user activity, including authentication attempts and errors. You can access logs for each individual user, as well as logs for the entire app. The logs provide you with the following details:
+
+- Authflow ID: The ID of the authentication flow that made the call to our API with the user ID
+- User ID: The ID of the user who made the authentication attempt
+- Email Address: The email address of the user who made the authentication attempt (if the user has already created an account)
+- Method: The authentication method used (e.g. email and password, email and email code, etc.)
+- Status Code: The status code returned by the authentication attempt (e.g. success, failure, etc.)
+- Errors: Any errors that occurred during the authentication attempt
+
+The Logs section also provides information about the devices and operating systems used by the end user to login, as well as the country of origin. This information is displayed in a user-friendly and readable page that includes the address, company, and whether the address is anonymous, a threat, a cloud provider, a bot, or a cloud. Note that while this section is accessible in the free version, it is limited to 7 days of log history.
+
